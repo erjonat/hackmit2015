@@ -1,4 +1,4 @@
-package com.example.erjona.hackmit;
+package com.example.erjona.maphack;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
